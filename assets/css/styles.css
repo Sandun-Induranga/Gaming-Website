@@ -1,3 +1,6 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
 #events {
-  background: url();
+  background: url("../images/t2.jpg");
 }
